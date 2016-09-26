@@ -84,7 +84,7 @@ public class BbAuthentication {
 	}
 
 	public void setBbHost(String bbHost) {
-		BbHost = bbHost;
+		this.BbHost = bbHost;
 	}
 	
 	public String getBbAPIURL() {
