@@ -1,6 +1,11 @@
 package com.jazinski.BbAuthentication;
 
 public class Main {
+	/**
+	 * @author Christopher Jazinski
+	 * @required The building block should be installed and configured as per documentation.
+	 * The share secret will also need to be set. In this case using 'blackboard' as documentation does 
+	 */
 
 	public static void main(String[] args) {
 		// BbAuthentication(user_id, shareSecret, BlackboardURL)
